@@ -1,9 +1,9 @@
 import React from 'react'
 
-const geomaps = () => {
+const Geomaps = () => {
   return (
-    <div>geomaps</div>
+    <div>Geomaps</div>
   )
 }
 
-export default geomaps
+export default Geomaps
