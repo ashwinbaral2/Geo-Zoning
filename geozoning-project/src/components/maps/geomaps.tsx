@@ -2,7 +2,7 @@ import React from 'react'
 
 const Geomaps = () => {
   return (
-    <div>Geomaps</div>
+    <div className=' border rounded-2xl'>This section is for loading geo maps</div>
   )
 }
 

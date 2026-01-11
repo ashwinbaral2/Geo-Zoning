@@ -2,7 +2,7 @@ import React from 'react'
 
 const Sidebar = () => {
   return (
-    <div>sidebar</div>
+    <div className='border'>this section is for loading sidebar</div>
   )
 }
 
